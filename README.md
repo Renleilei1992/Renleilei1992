@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src="https://gitee.com/Renleilei1992/MyBlogImgBed/raw/master/img_resume/Avatar_small.jpg" />
+
 <!--
 **Renleilei1992/Renleilei1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on Netease
+
+🌱 I’m currently learning CEF3, Qt
+
+📃 http://renleilei1992.gitee.io
+
+💬 Ask me about C++, Qt, Shell
+
+📫 How to reach me: renleilei1992@foxmail.com
+
+<img src="https://github-readme-stats.vercel.app/api?username=Renleilei1992&theme=cobalt" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renleilei1992&layout=compact" />
