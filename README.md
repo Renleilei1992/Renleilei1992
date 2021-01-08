@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Netease
+🔭 I’m currently working on Shanghai Netease
 
 🌱 I’m currently learning CEF3, Qt
 
