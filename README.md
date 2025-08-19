@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<!--
 <img align="right" src="https://gitee.com/Renleilei1992/MyBlogImgBed/raw/master/img_resume/Avatar_small.jpg" />
+-->
 
 <!--
 **Renleilei1992/Renleilei1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
